@@ -1,1 +1,1 @@
-# send-bulk-customized-emails-in-python
+# send-bulk-customized-emails
